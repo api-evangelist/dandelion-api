@@ -1,0 +1,79 @@
+{
+    "name": "Dandelion API",
+    "description": "Semantic Text Analytics API: From text to actionable data: extract meaning from unstructured text and put it in context with a simple API.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18951-dandelion-api.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "machine learning",
+        "machine learning scraping",
+        "scraping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dandelion-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dandelion API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18951-dandelion-api.jpg",
+            "humanURL": "https:\/\/dandelion.eu",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dandelion-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.dandelion.eu\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.dandelion.eu\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/datatxt-api"
+        },
+        {
+            "type": "Email",
+            "url": "hello@dandelion.eu"
+        },
+        {
+            "type": "Email",
+            "url": "sales@dandelion.eu"
+        },
+        {
+            "type": "Email",
+            "url": "support@dandelion.eu"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/dandelion.eu\/partner-program\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/dandelion.eu\/profile\/plans-and-pricing\/"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/dandelion.eu\/support\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dandelionapi"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/dandelion.eu"
+        }
+    ]
+}
